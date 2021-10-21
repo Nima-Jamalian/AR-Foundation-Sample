@@ -155,7 +155,7 @@ PlayerSettings:
   applicationIdentifier:
     Android: com.unity.arfoundation.samples
     Standalone: com.unity.arfoundation.samples
-    iPhone: com.nimajamalian.arfoundation
+    iPhone: come.nimajamalian.nimapp
   buildNumber:
     Standalone: 0
     iPhone: 0
@@ -759,7 +759,14 @@ PlayerSettings:
   XboxOneOverrideIdentityPublisher: 
   vrEditorSettings: {}
   cloudServicesEnabled:
+    Analytics: 0
+    Build: 1
+    Collab: 0
+    Game Performance: 0
+    Purchasing: 0
+    UDP: 0
     UNet: 1
+    Unity Ads: 0
   luminIcon:
     m_Name: 
     m_ModelFolderPath: 
@@ -773,11 +780,11 @@ PlayerSettings:
     m_VersionName: 
   apiCompatibilityLevel: 6
   activeInputHandler: 2
-  cloudProjectId: 
+  cloudProjectId: 2d3b4b0a-85a0-4c5d-904d-702aa1f554fb
   framebufferDepthMemorylessMode: 0
   qualitySettingsNames: []
-  projectName: Template_3D
-  organizationId: 
+  projectName: AR Foundation
+  organizationId: nima--3
   cloudEnabled: 0
   legacyClampBlendShapeWeights: 1
   virtualTexturingSupportEnabled: 0
